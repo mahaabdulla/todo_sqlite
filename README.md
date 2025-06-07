@@ -16,3 +16,15 @@ A simple and clean To-Do List App built with Flutter, using SQLite for local dat
     Offline data persistence with SQLite
 
     State management using Cubit (from flutter_bloc)
+
+🛠️ Tech Stack
+
+    Flutter 💙
+
+    SQLite (via sqflite)
+
+    Cubit (from flutter_bloc)
+
+    Path Provider (to locate database file)
+
+    ScreenUtil (for responsive layout)
